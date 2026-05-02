@@ -47,5 +47,6 @@ Python | AWS | Docker | Linux | FastAPI | PyTorch | Scikit-learn
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2%20CC-00A04A?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Digital%20Regenesys%20Artificial Intelligenge-00A04A?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
