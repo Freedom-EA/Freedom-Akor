@@ -14,6 +14,7 @@ I build security-focused AI systems, automation tools, and machine learning mode
 - AI Threat Detection System (Coming Soon)
 - Phishing Detection Tool
 - Face Recognition System
+- Real Estate ML Model
 
 ## 🛠 Tech Stack
 Python | AWS | Docker | Linux | FastAPI | PyTorch | Scikit-learn
