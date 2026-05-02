@@ -1,7 +1,7 @@
 # Hello, I'm Freedom Akor
 <a href="https://linkedin.com/in/freedom-akor"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
+# Cybersecurity & AI Engineer
 I build security-focused AI systems, automation tools, and machine learning models for real-world applications.
 
 ## 🔐 Focus Areas
