@@ -11,7 +11,7 @@ I build security-focused AI systems, automation tools, and machine learning mode
 - Backend Systems (Python)
 
 ## 🚀 Featured Projects
-- AI Threat Detection System (Coming Soon)
+- AI Threat Detection System (In Progress)
 - Phishing Detection Tool
 - Face Recognition System
 - Real Estate ML Model
